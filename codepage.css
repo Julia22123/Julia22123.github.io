@@ -1,0 +1,21 @@
+body {
+    background-color: Lavender;
+  }
+  
+h1 {
+  color: navy;
+  margin-left: 20px;
+  }
+
+div {
+    background-color: AliceBlue;
+}
+  
+p {
+    color: MidnightBlue;
+}
+
+table, th, td {
+
+    border:2px solid RebeccaPurple;
+}
